@@ -1,4 +1,4 @@
-# Expenses App
+# Login App
 
 Hooks practice, as part of the "React The Complete Guide" course on Udemy.
 

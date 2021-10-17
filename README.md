@@ -1,6 +1,6 @@
 # Login App
 
-Dummy login project built for Hooks practice, as part of the "React The Complete Guide" course on Udemy. includes useState, useEffect, useReducer and useContext.
+Dummy login app project for practicing Hooks ("React the Complete Guide" course on Udemy). includes useState, useEffect, useReducer, and useContext.
 
 ## Available Scripts
 
